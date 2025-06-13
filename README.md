@@ -20,6 +20,7 @@
    4. [Model Downloads](#model-downloads)<br>
    5. [FAQ](#faq)<br>
    6. [Contact Us](#contact-us)<br>
+7. [Explore The Mobile Pro Version](#Explore-Mobile-Pro)<br>
    
   ## <a id="introduction"></a>1. Introduction
    
@@ -108,14 +109,9 @@ Explore enterprise features at [duix.com](https://duix.com/).
 
 
   
-## <a id="contact-us"></a>6. Contact Us
+## <a id="Explore-Mobile-Pro"></a>6. Explore The Mobile Pro Version
+Mobile-Pro takes intelligent interaction to the next level, building on the solid foundation of our Open-Source Version. It introduces cutting-edge features like multi-action control and expanded device authorization. Perfect for businesses and developers looking for a high-performance, future-proof AI solution.
 
-
-If you have any questions, please raise an issue or contact us at james@duix.com
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.mobile&type=Date)](https://star-history.com/#GuijiAI/Duix.mobile&Date)
+Upgrade to Mobile-Pro today and experience AI like never before！[Learn more！](https://duix.com/mpro) 🚀
 
 
