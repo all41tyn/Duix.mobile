@@ -20,6 +20,7 @@
    4. [Model Downloads](#model-downloads)<br>
    5. [FAQ](#faq)<br>
    6. [Contact Us](#contact-us)<br>
+  7. [Explore the Mobile Pro Version](#Explore the Mobile Pro Version)<br>
    
   ## <a id="introduction"></a>1. Introduction
    
